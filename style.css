@@ -14,7 +14,7 @@
     display: flex;
     padding: 100px;
     align-items: center;
-    background: rgb(58, 11, 189);
+    background: rgb(69, 7, 238);
     color: rgb(209, 217, 224);
 }
 
@@ -76,8 +76,4 @@
     position: relative;
     width: 100%;
     /* for IE 6 */
-}
-
-body {
-    background-color: rgb(219, 38, 38);
 }
