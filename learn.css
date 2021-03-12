@@ -1,0 +1,28 @@
+body {
+    background-color: rgb(51, 10, 105);
+    color: red;
+}
+
+.text p {
+    color: white;
+    font-size: 30px;
+}
+
+.showcase header {
+    position: relative;
+    width: 100%;
+    padding: .8px 80px;
+    background-color: red;
+    color: rgb(33, 13, 146);
+}
+
+.text h2 {
+    color: rgb(255, 2, 2);
+    font-size: 30px;
+}
+
+a:link {
+    background-color: yellow;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+}
