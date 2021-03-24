@@ -1,0 +1,25 @@
+body {
+    background-color: rgb(2, 0, 3);
+    color: red;
+}
+
+.showcase header {
+    position: relative;
+    width: 100%;
+    padding: 8px 80px;
+    background-color: #19077c;
+    color: rgb(218, 8, 8);
+    word-spacing: 100px;
+    height: 80px;
+}
+
+footer {
+    text-align: center;
+    padding: 3px;
+    background-color: red;
+    color: white;
+}
+
+p {
+    color: white;
+}
