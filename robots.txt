@@ -1,3 +1,5 @@
 User-Agent: *
 Allow: /
 
+Sitemap: https://businessandinvesting.com/sitemap.xml
+
